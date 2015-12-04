@@ -1,0 +1,7 @@
+
+** (update-notifier:2807): WARNING **: log file empty (logrotate?) /var/log/dpkg.log
+
+** (update-notifier:2807): WARNING **: log file empty (logrotate?) /var/log/apt/term.log
+Nautilus-Share-Message: Called "net usershare info" but it failed: 'net usershare' returned error 255: net usershare: cannot open usershare directory /var/lib/samba/usershares. Error No such file or directory
+Please ask your system administrator to enable user sharing.
+
