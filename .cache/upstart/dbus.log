@@ -1,8 +1,0 @@
-
-** (process:2536): WARNING **: *** Unsupported operation detected on trash directory
-
-** (process:2536): WARNING **:     A trash files/ directory should only have files linked or unlinked (via moves or deletes).  Some other operation has been detected on a file in the directory (eg: a file has been modified).  Likely, the data reported by the trash backend will now be inconsistent.
-
-** (process:2536): WARNING **:   dir: /home/guk/.local/share/Trash/files, file: project, type: 1
-
-
